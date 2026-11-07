@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мой ТВ</string>
+    <string name="service_label">Мой ТВ — кнопка «Домой»</string>
+    <string name="service_desc">Открывает главный экран «Мой ТВ» по кнопке «Домой» и после включения телевизора. Сервис не читает содержимое экрана, он только слушает кнопку «Домой».</string>
+</resources>
